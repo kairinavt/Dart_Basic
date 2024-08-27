@@ -54,7 +54,8 @@ void main() {
   m["name3"] = 141;
   m.remove("name2");
   print(m);
- //
+ //test
+// ngay 28/8
   //Runes
   String s4 = "おはようございます"; //16bit unicode = 17 x 16 bit;
   print(s4);
